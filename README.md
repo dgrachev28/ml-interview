@@ -30,3 +30,7 @@ This repository will contain everything for ML interview preparation.
 ### :question: What is collaborative filtering?
 
 *TBA*
+
+### :question: How to exactly implement the calculation of a median using a map-reduce algorithm? It must work well with hundreds of millions of numbers. Describe all steps of the algorithm. What approximation methods of a median you know?
+
+*TBA*
