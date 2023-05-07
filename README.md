@@ -38,3 +38,7 @@ This repository will contain everything for ML interview preparation.
 ### :question: How ARIMA model works?
 
 https://www.machinelearningplus.com/time-series/arima-model-time-series-forecasting-python/?utm_content=cmp-true
+
+### :question: How to find out if a sample has a normal distribution?
+
+*TBA*
